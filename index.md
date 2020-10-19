@@ -1,7 +1,7 @@
 <!-- Load jQuery and Sheetrock from CDNJS -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sheetrock/1.1.4/dist/sheetrock.min.js"></script>
-<script src="js.js"></script>
+
 
 
 ## Welcome to GitHub Pages
@@ -12,4 +12,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 <table id="statistics" class="table table-condensed table-striped"></table>
+
+<script src="js.js"></script>
 

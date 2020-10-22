@@ -1,17 +1,10 @@
-<!-- Load jQuery and Sheetrock from CDNJS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sheetrock/1.1.4/dist/sheetrock.min.js"></script>
+## Syllabus updates
+
+Great to see you! This space will be used for updates to the 2020/21 *Interaction and Interface Design* (IxID) course at Berlin International.
+
+As long you can read this, the global situation has not required any significant changes to the syllabus.
+
+Fingers crossed, and check back anytime!
 
 
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/myhd/ixid-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-<table id="statistics" class="table table-condensed table-striped"></table>
-
-<script src="js.js"></script>
 
